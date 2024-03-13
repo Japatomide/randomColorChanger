@@ -11,13 +11,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#header {
-    font-size: 2rem;
-    font-style: italic;
-    font-weight: 600;
-    margin-bottom: 5px;
-}
-
 #container {
     display: flex;
     flex-direction: column;
